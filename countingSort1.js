@@ -50,7 +50,7 @@ function countingSort(arr) {
                 
                 count = count + 1
                 array[i] = count  
-                // console.log('run numero:'+j) 
+                //console.log('run numero:'+j) 
                       
                        
             }
